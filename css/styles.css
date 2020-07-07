@@ -18,6 +18,13 @@
 
 
 }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+    background-color: #512DAB;
+}
 .jumbotron
 {
     padding: 70px 30px 70px 30px;
